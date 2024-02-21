@@ -1,5 +1,8 @@
 # web3-project
-
+```
+For the test, I used the Sepolia test network in Metamask. 
+If you don't have test tokens, you can get them at https://sepolia-faucet.pk910.de/.
+```
 ## Project setup
 ```
 npm install
